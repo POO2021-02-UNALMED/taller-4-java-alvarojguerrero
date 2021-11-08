@@ -10,7 +10,7 @@ public class Persona {
         totalPersonas = 0;
     }
 
-    Persina(){
+    Persona(){
         this.cedula=0;
     }
 
