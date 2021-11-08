@@ -30,7 +30,7 @@ public class Grupo {
     }
 
     void setEstudiantes(Persona[] estd){
-        this.estudiantes = estud;
+        this.estudiantes = estd;
     }
 
     Grupo(Persona[] estudiantes, Persona profesor, Asignatura asignatura) {
